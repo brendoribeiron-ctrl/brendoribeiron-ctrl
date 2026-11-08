@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Brendo 👋</h1>
+<p align="center"><img src="banner.gif" alt="Pocoyo - Systems Analysis & Development student" width="100%"></p>
+
+<h1 align="center">Hi, I'm Pocoyo 👋</h1>
 
 <p align="center">
   Systems Analysis & Development student from Brazil 🇧🇷
